@@ -29,14 +29,13 @@ public class BarometerProject implements EntryPoint {
 
 		ManuOne pageMO = new ManuOne();
 		RootPanel.get().add(pageMO);
-		
+				
 		WorkPlaceOne pageWPO = new WorkPlaceOne();
 		RootPanel.get().add(pageWPO);
 
 	}
 
-}
-// VerticalPanel vpanel = new VerticalPanel();
+}// VerticalPanel vpanel = new VerticalPanel();
 //
 // // Create radio buttons, .
 // RadioButton radioButton1 = new RadioButton("manuf", "Pisut");

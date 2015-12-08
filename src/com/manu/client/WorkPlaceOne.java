@@ -27,6 +27,7 @@ public class WorkPlaceOne extends Composite {
 
 				final Label questions1 = new Label(questions[i]);
 				vPanel.add(questions1);
+				vPanel.setSpacing(3);
 
 			}
 		}

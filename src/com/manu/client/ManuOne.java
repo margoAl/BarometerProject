@@ -40,6 +40,7 @@ public class ManuOne extends Composite {
 		vPanel.add(this.question6);
 		this.question7 = new Label(" Kui palju aega kulub kvaliteedi tagamiseks?");
 		vPanel.add(this.question7);
+		vPanel.setSpacing(1);
 
 		HorizontalPanel hPanel = new HorizontalPanel();
 		hPanel.setBorderWidth(1);
